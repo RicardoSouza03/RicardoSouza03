@@ -12,6 +12,7 @@ __from Brazil :brazil:, São Paulo__.
 5. Node/Express
 6. MySql
 7. Docker
+8. Typescript
 ...
 ```
 ****You should look my [portfolio](https://ricardosouza03.github.io/), there I've made a list with all tecnologies****. <br />
