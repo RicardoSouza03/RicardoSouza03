@@ -1,7 +1,7 @@
 ### Hey there, I'm Ricardo Lino de Souza
 __from Brazil :brazil:, São Paulo__.
 #
-- *Full stack web development student, on a school called [Trybe](https://www.betrybe.com)*.
+- *Back end developer.
 - If you want to contact me, here is my linkedin: *[Ricardo Souza](https://www.linkedin.com/in/ricardolinosouza/)*.
 ## :brain: So far I've learned:
 ```
